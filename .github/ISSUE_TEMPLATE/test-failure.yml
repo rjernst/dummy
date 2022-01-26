@@ -24,8 +24,8 @@ body:
     attributes:
       label: Does it reproduce?
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: input
