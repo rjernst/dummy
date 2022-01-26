@@ -34,7 +34,7 @@ body:
     attributes:
       label: Java Version
       description: The version of Java Elasticsearch is running with, found with `java -version`
-      value: *bundled*
+      value: _bundled_
     validations:
       required: true
   - type: input
